@@ -64,7 +64,9 @@ Codewave is an interactive programming assistance tool designed to support first
 - Imesh(https://github.com/ImeshR)
 - 
  
-| | User Role | Image |
+## User Roles and Images
+
+| User Role | Image |
 | --- | --- |
 | **Instructor** | ![Instructor](https://github.com/SarangaSiriwardhana9/CodeWave/assets/99233703/62976afa-f859-4353-9fb8-cf42e275a9b7) |
 | | ![Image2](https://github.com/SarangaSiriwardhana9/CodeWave/assets/99233703/d5d71800-e7cf-48ef-a3d6-1cefddca43bb) |
@@ -78,15 +80,4 @@ Codewave is an interactive programming assistance tool designed to support first
 | **Admin** | ![Image6](https://github.com/SarangaSiriwardhana9/CodeWave/assets/99233703/7da81b25-7041-4397-9e10-6248b035e4d8) |
 | | ![Image5](https://github.com/SarangaSiriwardhana9/CodeWave/assets/99233703/dcef6ee6-e103-47b1-9f57-dcc17d6e9cac) |
 | | ![Image4](https://github.com/SarangaSiriwardhana9/CodeWave/assets/99233703/25ab7a0a-c488-4ce9-ab26-be96db87ed0a) |
-
-
-
-
-
-
-
-
-
-
-
 
