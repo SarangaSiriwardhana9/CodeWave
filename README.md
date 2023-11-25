@@ -47,10 +47,11 @@ Codewave is an interactive programming assistance tool designed to support first
 ![2](https://github.com/SarangaSiriwardhana9/CodeWave/assets/99233703/d5d71800-e7cf-48ef-a3d6-1cefddca43bb)
 ![12](https://github.com/SarangaSiriwardhana9/CodeWave/assets/99233703/09af0700-1a93-4398-baad-b57e317023c7)
 ![3](https://github.com/SarangaSiriwardhana9/CodeWave/assets/99233703/dce64f1e-5be0-4851-be4c-44e71737a690)
+![9](https://github.com/SarangaSiriwardhana9/CodeWave/assets/99233703/16683687-601a-4d24-a418-44458abc2cfa)
 ![10](https://github.com/SarangaSiriwardhana9/CodeWave/assets/99233703/40acc07f-b582-4333-a40c-205254337805)
 ![11](https://github.com/SarangaSiriwardhana9/CodeWave/assets/99233703/87eb404b-fb75-4d3d-b662-ad95aaaf98e0)
 
-![9](https://github.com/SarangaSiriwardhana9/CodeWave/assets/99233703/16683687-601a-4d24-a418-44458abc2cfa)
+
 ![8](https://github.com/SarangaSiriwardhana9/CodeWave/assets/99233703/6d1c65ce-daa3-47ff-8baa-f8b2df2ce922)
 ![7](https://github.com/SarangaSiriwardhana9/CodeWave/assets/99233703/5099c5dc-3cf5-464b-85fe-917e9c83d364)
 ![6](https://github.com/SarangaSiriwardhana9/CodeWave/assets/99233703/7da81b25-7041-4397-9e10-6248b035e4d8)
