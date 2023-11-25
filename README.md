@@ -1,6 +1,5 @@
 
-
-<img src="https://github.com/ImeshR/IPAT-Project/assets/111144332/62b45af6-8114-45c9-8b62-8e78efc8ae84" alt="image" style="width:100%; height:20%;">
+![Capture](https://github.com/SarangaSiriwardhana9/CodeWave/assets/99233703/f57e238c-9340-4c22-b82a-578e28c6d8dc)
 
 
 
