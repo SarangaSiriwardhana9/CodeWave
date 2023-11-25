@@ -61,7 +61,8 @@ Codewave is an interactive programming assistance tool designed to support first
 ## Contributors
 
 - Saranga (https://github.com/SarangaSiriwardhana9) 
-- Imesh(https://github.com/ImeshR) 
+- Imesh(https://github.com/ImeshR)
+- | ![Instructor](https://github.com/SarangaSiriwardhana9/CodeWave/assets/99233703/62976afa-f859-4353-9fb8-cf42e275a9b7) |
  
 | User Role | Image |
 | --- | --- |
