@@ -62,7 +62,7 @@ Codewave is an interactive programming assistance tool designed to support first
 
 - Saranga (https://github.com/SarangaSiriwardhana9) 
 - Imesh(https://github.com/ImeshR)
-- | ![Instructor](https://github.com/SarangaSiriwardhana9/CodeWave/assets/99233703/62976afa-f859-4353-9fb8-cf42e275a9b7) |
+- 
  
 | User Role | Image |
 | --- | --- |
@@ -71,7 +71,8 @@ Codewave is an interactive programming assistance tool designed to support first
 | | ![Image12](https://github.com/SarangaSiriwardhana9/CodeWave/assets/99233703/09af0700-1a93-4398-baad-b57e317023c7) |
 | | ![Image3](https://github.com/SarangaSiriwardhana9/CodeWave/assets/99233703/dce64f1e-5be0-4851-be4c-44e71737a690) |
 | | ![Image7](https://github.com/SarangaSiriwardhana9/CodeWave/assets/99233703/5099c5dc-3cf5-464b-85fe-917e9c83d364) |
-| **Student** | ![Image9](https://github.com/SarangaSiriwardhana9/CodeWave/assets/99233703/16683687-601a-4d24-a418-44458abc2cfa) |
+| **Student**| ![Instructor](https://github.com/SarangaSiriwardhana9/CodeWave/assets/99233703/62976afa-f859-4353-9fb8-cf42e275a9b7) |
+| ![Image9](https://github.com/SarangaSiriwardhana9/CodeWave/assets/99233703/16683687-601a-4d24-a418-44458abc2cfa) |
 | | ![Image10](https://github.com/SarangaSiriwardhana9/CodeWave/assets/99233703/40acc07f-b582-4333-a40c-205254337805) |
 | | ![Image11](https://github.com/SarangaSiriwardhana9/CodeWave/assets/99233703/87eb404b-fb75-4d3d-b662-ad95aaaf98e0) |
 | **Admin** | ![Image6](https://github.com/SarangaSiriwardhana9/CodeWave/assets/99233703/7da81b25-7041-4397-9e10-6248b035e4d8) |
