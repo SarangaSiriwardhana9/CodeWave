@@ -65,8 +65,7 @@ Codewave is an interactive programming assistance tool designed to support first
  
 | User Role | Image |
 | --- | --- |
-| **Instructor** 
-| | ![Image2](https://github.com/SarangaSiriwardhana9/CodeWave/assets/99233703/d5d71800-e7cf-48ef-a3d6-1cefddca43bb) |
+| **Instructor**  | ![Image2](https://github.com/SarangaSiriwardhana9/CodeWave/assets/99233703/d5d71800-e7cf-48ef-a3d6-1cefddca43bb) |
 | | ![Image8](https://github.com/SarangaSiriwardhana9/CodeWave/assets/99233703/6d1c65ce-daa3-47ff-8baa-f8b2df2ce922) |
 | | ![Image12](https://github.com/SarangaSiriwardhana9/CodeWave/assets/99233703/09af0700-1a93-4398-baad-b57e317023c7) |
 | | ![Image3](https://github.com/SarangaSiriwardhana9/CodeWave/assets/99233703/dce64f1e-5be0-4851-be4c-44e71737a690) |
