@@ -15,7 +15,7 @@ Codewave is an interactive programming assistance tool designed to support first
   - React.js (Frontend Library)
   - Node.js (Runtime Environment)
 
-- **WebSockets:** Used for real-time communication.
+- **WebRTC:** Used for real-time communication.
 
 - **Tailwind CSS:** A utility-first CSS framework for styling.
 
