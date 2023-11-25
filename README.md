@@ -6,6 +6,19 @@
 
 Codewave is an interactive programming assistance tool designed to support first-year Information Technology students in their learning journey. It provides a dynamic virtual lab environment, automated guidelines, and real-time collaboration to empower students in navigating coding exercises at their own pace.
 
+## Technologies Used
+
+- **MERN Stack:**
+  - MongoDB (Database)
+  - Express.js (Web Application Framework)
+  - React.js (Frontend Library)
+  - Node.js (Runtime Environment)
+
+- **WebSockets:** Used for real-time communication.
+
+- **Tailwind CSS:** A utility-first CSS framework for styling.
+
+
 ## Features
 
 - **Live Chat with Instructors:** Direct communication channel for students and instructors.
