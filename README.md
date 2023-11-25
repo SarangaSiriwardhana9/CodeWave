@@ -57,7 +57,11 @@ Codewave is an interactive programming assistance tool designed to support first
 - List of available assignments.
 - Assignments enrollment statistics.
 - Assignments schedule and timetable.
-- 
+
+## Contributors
+
+- Saranga (https://github.com/SarangaSiriwardhana9) 
+- Imesh(https://github.com/ImeshR) 
  
 | User Role | Image |
 | --- | --- |
