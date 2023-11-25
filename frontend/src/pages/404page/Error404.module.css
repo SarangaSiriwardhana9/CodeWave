@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+
+.master {
+  width: 100%;
+  height: auto;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.page_404 {
+  background: #ffffff;
+  font-family: 'Poppins';
+  text-align: center;
+  width: 90%; /* Adjusted width for responsiveness */
+  max-width: 500px; /* Added maximum width for larger screens */
+  margin: 0 auto; /* Center align the element */
+}
+
+.page_404 img {
+  width: 100%; /* Adjusted image width to fit container */
+  max-width: 400px;
+  height: auto;
+  display: block;
+  margin: 0 auto;
+}
+
+.four_zero_four_bg {
+  background-image: url(https://cdn.dribbble.com/users/285475/screenshots/2083086/dribbble_1.gif);
+  height: 300px; /* Adjusted height for smaller screens */
+  background-position: center;
+  text-align: center;
+  background-size: contain;
+}
+
+.four_zero_four_bg h1,
+.four_zero_four_bg h3 {
+  font-size: 40px; /* Decreased font size for smaller screens */
+}
+
+.link_404 {
+  color: #fff !important;
+  padding: 10px 20px;
+  background: #39ac31;
+  margin: 20px 0;
+  display: inline-block;
+  border-radius: 8px;
+  text-decoration: none;
+}
+
+.contant_box_404 {
+  margin-top: 20px;
+}
+
+/* Media Query for mobile devices */
+@media (max-width: 500px) {
+  .page_404 {
+    width: 90%; /* Adjusted width for smaller screens */
+  }
+
+  .four_zero_four_bg h1,
+  .four_zero_four_bg h3 {
+    font-size: 30px; /* Further decreased font size for smaller screens */
+  }
+}

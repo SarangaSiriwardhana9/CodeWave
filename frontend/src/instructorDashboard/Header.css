@@ -1,0 +1,22 @@
+/* Header.css */
+.header {
+    background-color: #bebaba; /* Replace with your desired background color */
+    color: white;
+    padding: 1rem;
+    position: fixed;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 10;
+  }
+  
+  .header .container {
+    max-width: 960px;
+    margin: 0 auto;
+  }
+  
+  .header h1 {
+    font-size: 2rem;
+    font-weight: bold;
+  }
+  
