@@ -2,23 +2,17 @@
 ![Capture](https://github.com/SarangaSiriwardhana9/CodeWave/assets/99233703/f57e238c-9340-4c22-b82a-578e28c6d8dc)
 
 
-
-# Codewave - Interactive Programming Assistant Tool
+# Codewave: Interactive Programming Assistance Tool
 
 Codewave is an interactive programming assistance tool designed to support first-year Information Technology students in their learning journey. It provides a dynamic virtual lab environment, automated guidelines, and real-time collaboration to empower students in navigating coding exercises at their own pace.
 
 ## Technologies Used
 
-- **MERN Stack:**
-  - MongoDB (Database)
-  - Express.js (Web Application Framework)
-  - React.js (Frontend Library)
-  - Node.js (Runtime Environment)
-
-- **WebRTC:** Used for real-time communication.
-
-- **Tailwind CSS:** A utility-first CSS framework for styling.
-
+- MongoDB (Database)
+- Express.js (Web Application Framework)
+- React.js (Frontend Library)
+- Node.js (Runtime Environment)
+- Zegocloud API (Real-time Collaboration)
 
 ## Features
 
@@ -27,36 +21,67 @@ Codewave is an interactive programming assistance tool designed to support first
 - **Automated Guidelines and Hints:** Encourages independent problem-solving with instant feedback.
 - **Real-time Collaboration and Screen Sharing:** Facilitates direct interaction with instructors.
 
-## System Functions
+### Admins
 
-### Student Management
+- Manage student details
+- Manage instructor details
+- Create lab rooms and assign instructors
+- Manage lab room details (enrollment key, meeting room)
+- Add instructions to lab rooms
 
-- Add new student records.
-- Display a list of all students and their details.
-- Modify student information.
-- Remove student records from the system.
-- Student enrollment summary by course or semester, course-wise student count.
+### Instructors
 
-### Instructor Management
+- View assigned lab rooms
+- Update lab room details
+- Add instructions to lab rooms
+- View students' answers and instructions
 
-- Add new instructor records.
-- Display a list of all instructors and their details.
-- Edit instructor information.
-- Remove instructor profiles.
-- List of instructors with the courses they teach.
-- Instructor workload summary.
-- Instructor contact details.
+### Students
 
-### Assignment Management
+- Manage student profiles
+- Enroll in lab rooms using an enrollment key
+- View steps and perform lab tasks
+- Upload and submit answers
 
-- Add new assignments with details.
-- Display a list of all assignments.
-- Edit assignments details.
-- Assign instructors for labs.
-- Remove assignments from the system.
-- List of available assignments.
-- Assignments enrollment statistics.
-- Assignments schedule and timetable.
+## Getting Started
+
+1. **Clone the repository:**
+
+    ```bash
+    https://github.com/SarangaSiriwardhana9/CodeWave.git
+    ```
+
+2. **Install dependencies for the server and client:**
+
+    ```bash
+    cd frontend
+    npm install
+    
+    cd backend
+    npm install
+    ```
+
+3. **Set up the MongoDB database:**
+
+    - Create a MongoDB Atlas account and set up a cluster.
+    - Configure the MongoDB connection string in `server/config/default.json`.
+
+4. **Set up Zegocloud API:**
+
+    - Obtain API credentials from Zegocloud and configure them in your project.
+
+5. **Run the application:**
+
+    ```bash
+    npm start
+    ```
+
+6. **Access the application in your browser:**
+
+    ```
+    http://localhost:3000
+    ```
+
 
 ## Contributors
 
