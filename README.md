@@ -12,7 +12,7 @@ Codewave is an interactive programming assistance tool designed to support first
 - Express.js (Web Application Framework)
 - React.js (Frontend Library)
 - Node.js (Runtime Environment)
-- Zegocloud API (Real-time Collaboration)
+- Zegocloud API (Real-time Collaboration).
 
 ## Features
 
