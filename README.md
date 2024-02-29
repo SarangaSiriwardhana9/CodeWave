@@ -1,7 +1,6 @@
 
 ![Capture](https://github.com/SarangaSiriwardhana9/CodeWave/assets/99233703/f57e238c-9340-4c22-b82a-578e28c6d8dc)
 
-
 # Codewave: Interactive Programming Assistance Tool
 
 Codewave is an interactive programming assistance tool designed to support first-year Information Technology students in their learning journey. It provides a dynamic virtual lab environment, automated guidelines, and real-time collaboration to empower students in navigating coding exercises at their own pace.
